@@ -70,7 +70,7 @@ class ViewController: UIViewController {
                 }
             }
             else{
-                rightOrWrong.text = "😵Wrong!⚰️🖕🏽"
+                rightOrWrong.text = "😵Wrong!⚰️"
                 score = 0
                 enableButtons(false)
                 playerScore.text = "Player Score: 0"
@@ -87,7 +87,7 @@ class ViewController: UIViewController {
                 }
             }
             else{
-                rightOrWrong.text = "😵Wrong!⚰️🖕🏽"
+                rightOrWrong.text = "😵Wrong!⚰️"
                 score = 0
                 playerScore.text = "Player Score: 0"
                 enableButtons(false)
@@ -106,7 +106,7 @@ class ViewController: UIViewController {
                 }
             }
             else{
-                rightOrWrong.text = "😵Wrong!⚰️🖕🏽"
+                rightOrWrong.text = "😵Wrong!⚰️"
                 score = 0
                 playerScore.text = "Player Score: 0"
                 enableButtons(false)
